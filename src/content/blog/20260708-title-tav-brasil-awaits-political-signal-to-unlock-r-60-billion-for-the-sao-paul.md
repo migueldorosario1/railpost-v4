@@ -1,0 +1,39 @@
+---
+title: "Title: TAV Brasil awaits political signal to unlock R$ 60 billion for the São Paulo-Rio bullet train"
+description: "TAV Brasil awaits political signal to unlock R$ 60 billion for the São Paulo-Rio bullet train"
+pubDate: "2026-07-08"
+heroImage: "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/trilhos/infraestrutura-infrastructure/title-tav-brasil-awaits-political-signal-to-unlock-r-60-billion-for-the-sao-paul.jpg"
+hero_credit: "Foto: Wikimedia Commons"
+hero_license: "cc-by-sa"
+alt: "Documentary photography about Title: TAV Brasil awaits political signal to unlock R$ 60 billion for the São Paulo-Rio bullet train"
+source_name: "Brasil e China firmam parceria que prevê ferrovia ligando Atlântico e Pacífico | G1, Brasil tenta, de novo, expandir as ferrovias. Mas ainda falta combinar com os chineses, Projetos de trens de passageiros avançam no Brasil, mas ainda enfrentam desafios - Revista Ferroviária"
+source_url: "https://g1.globo.com/economia/noticia/2025/07/07/brasil-e-china-assinam-memorando-para-planejamento-ferroviario.ghtml"
+tags: ["infrastructure", "brazil"]
+categoria_macro: "infraestrutura"
+lang: "en"
+author: "The Rail Post Desk"
+interlink_url: "https://mundotrilhos.com/blog/titulo-tav-brasil-aguarda-sinal-politico-para-destravar-r-60-bilhoes-do-trem-bal/"
+interlink_lang: "pt-br"
+draft: false
+---
+Editorial: The route is defined, the Chinese show appetite, and BNDES negotiates 60-year terms. The government still needs to decide if the country really wants to enter the high-speed rail era.
+Text:
+<p>Every great city reveals its intelligence by how it moves people. The São Paulo-Rio de Janeiro corridor concentrates the greatest economic density in the southern hemisphere and remains at the mercy of a saturated air system and highways bordering on logistical collapse.</p>
+<p>The High-Speed Train (TAV) Brazil project aims to break this inertia with a 510-kilometer dedicated line, designed for a speed of 350 km/h on standard gauge. The estimated investment reaches R$ 50 billion for the main works, plus another R$ 10 billion for expropriations and real estate development along the route.</p>
+<p>This is an infrastructure that would reposition Brazil on the global map of passenger rail mobility. The country that once had one of the most underutilized railway networks in the world would start operating a service comparable to that connecting Madrid to Barcelona or Tokyo to Osaka.</p>
+<p>Bernardo Figueiredo, president of TAV Brasil, the company responsible for structuring the project, states that environmental licensing is underway and that there is an agreement with an interested Chinese group. However, Figueiredo himself acknowledges the obstacle that paralyzes the project: Asian investors condition their entry on a clear signal of support from the federal government.</p>
+<p>The negotiation with the Chinese is not abstract speculation. CRRC, the world's largest rolling stock manufacturer, has already put down roots in Brazil as a partner in the consortium that won the concession for the Intercity Train between São Paulo and Campinas, a R$ 14 billion contract.</p>
+<p>The Chinese state-owned company is also preparing a factory in Araraquara, in the interior of São Paulo, with an initial investment of R$ 50 million to produce metropolitan trains and, potentially, high-speed trains. CCCC, another Chinese infrastructure giant, already operates at the Port of São Luís and has expressed interest in participating in Brazilian railway auctions.</p>
+<p>Financing remains the central knot of any large-scale railway project in Brazil. Each kilometer of new track costs, on average, R$ 27 million — more than triple that of an equivalent highway — and the return can take decades to materialize.</p>
+<p>The National Bank for Economic and Social Development (BNDES) is negotiating a special credit line for railways with amortization periods of up to 60 years and an extended grace period during the construction phase. It is exactly the type of financial engineering that could make the TAV palatable to private and multilateral investors.</p>
+<p>As pointed out by <a href='https://revistaferroviaria.com.br/2025/10/projetos-de-trens-de-passageiros-avancam-no-brasil-mas-ainda-enfrentam-desafios/' target='_blank'>Revista Ferroviária</a>, the National Secretary of Railway Transport, Leonardo Cezar Ribeiro, looks favorably on the private initiative of the TAV and cites BNDES financing as one of the incentive channels available. The government, however, insists on classifying the project as entirely private infrastructure, which imposes limits on the type of support it can offer.</p>
+<p>The paradox is evident and recurrent in Brazilian railway planning. No country in the world has implemented high-speed trains without strong state participation in construction costs and demand risk mitigation.</p>
+<p>The European experience itself shows that state-owned companies such as Deutsche Bahn in Germany and SNCF in France bear a substantial part of passenger operations. In Japan, the Shinkansen was born from a state political decision and was never treated as a purely private return venture.</p>
+<p>While the TAV awaits a definition, Chinese interest in Brazilian logistics intensifies on other fronts. Brazil and China signed a memorandum of understanding to plan a transoceanic railway linking Brazilian territory to the port of Chancay in Peru, reducing cargo transport time to Asia from 40 to 28 days.</p>
+<p>The agreement, signed by Infra S.A. and the China Railway Economic and Planning Research Institute, does not involve high-speed passenger service, but reveals the scale of Chinese appetite for transport infrastructure on the South American continent. The Atlantic-Pacific Railway would cross Bahia, Goiás, Mato Grosso, Rondônia, and Acre before reaching the Peruvian coast.</p>
+<p>There is a brutal economic logic behind this interest: 70% of the soybeans and corn that China imports come from Brazil. For Beijing, organizing Brazilian logistics has ceased to be merely a commercial opportunity and has become a matter of food security.</p>
+<p>The contrast with the domestic scenario is instructive. While Brazil has been debating for two decades whether it is worth building the TAV, the national railway network transported 406.6 million tons of iron ore in 2025 — 73% of everything that passed over the rails — in a model almost entirely focused on commodities.</p>
+<p>Passengers remain marginalized in this equation. The only interstate passenger lines in operation are the Vitória-Minas Railway and the Carajás Railway, both operated by Vale under contractual obligation from their freight concessions.</p>
+<p>The article published <a href='https://investnews.com.br/negocios/brasil-tenta-de-novo-expandir-as-ferrovias-mas-ainda-falta-combinar-com-os-chineses/' target='_blank'>by InvestNews</a> summarizes the impasse precisely: the government foresees eight railway auctions by the end of 2026, totaling 9,000 kilometers and R$ 140 billion in investments, but practically none of these projects become viable without foreign state capital. It is virtually impossible to expect this amount to come exclusively from the Brazilian private sector.</p>
+<p>The TAV São Paulo-Rio remains the ultimate symbol of what the country could be in rail mobility and is not yet. With 510 kilometers of dedicated line, 350 km/h design speed, and a potential passenger flow that rivals the most profitable domestic aviation corridors, the project has all the technical attributes to succeed.</p>
+<p>What it lacks is precisely what has never been offered to it since the idea first emerged, back in the 2000s: a state decision that recognizes high-speed rail as a vector of development, and not as an engineering whim. Until that decision comes, the dream of the Brazilian bullet train remains stalled on the platform, with engines ready and the track waiting.</p>

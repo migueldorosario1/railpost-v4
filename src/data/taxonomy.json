@@ -1,0 +1,59 @@
+{
+  "portal": "Rail Post",
+  "lang": "en",
+  "schema_version": "v1",
+  "updated": "2026-05-16",
+  "source": "Sprint 0d Trindade (Codex 21:33 BRT + Claude 20:30 BRT)",
+  "twin": {
+    "url": "https://mundotrilhos.com",
+    "lang": "pt-br",
+    "name": "Mundo Trilhos"
+  },
+  "eixos": {
+    "modality": {
+      "label": "Modality",
+      "tags": [
+        { "slug": "high-speed", "label": "High Speed" },
+        { "slug": "freight", "label": "Freight" },
+        { "slug": "metro-light-rail", "label": "Metro & Light Rail" },
+        { "slug": "regional-rail", "label": "Regional Rail" },
+        { "slug": "tourist-rail", "label": "Tourist Rail" },
+        { "slug": "urban-rail", "label": "Urban Rail" }
+      ]
+    },
+    "infrastructure": {
+      "label": "Infrastructure",
+      "tags": [
+        { "slug": "tracks", "label": "Tracks" },
+        { "slug": "stations", "label": "Stations" },
+        { "slug": "signaling", "label": "Signaling" },
+        { "slug": "electrification", "label": "Electrification" },
+        { "slug": "maintenance", "label": "Maintenance" },
+        { "slug": "tunnels-bridges", "label": "Tunnels & Bridges" }
+      ]
+    },
+    "economy": {
+      "label": "Economy",
+      "tags": [
+        { "slug": "logistics", "label": "Logistics" },
+        { "slug": "exports", "label": "Exports" },
+        { "slug": "industry", "label": "Rail Industry" },
+        { "slug": "concessions", "label": "Concessions" },
+        { "slug": "financing", "label": "Financing" },
+        { "slug": "ports", "label": "Port Integration" }
+      ]
+    },
+    "geography": {
+      "label": "Geography",
+      "tags": [
+        { "slug": "latin-america", "label": "Latin America" },
+        { "slug": "north-america", "label": "North America" },
+        { "slug": "europe", "label": "Europe" },
+        { "slug": "asia", "label": "Asia" },
+        { "slug": "africa", "label": "Africa" },
+        { "slug": "middle-east", "label": "Middle East" }
+      ]
+    }
+  },
+  "editorial_guideline": "Rail Post has global vocation. Twin to Mundo Trilhos (pt-br): when a story is international or strategic, publish in both languages with interlink."
+}
