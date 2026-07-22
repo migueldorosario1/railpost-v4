@@ -60,6 +60,15 @@ const imageURL = typeof image === 'string' ? new URL(image, Astro.site) : new UR
 <meta property="twitter:description" content={description} />
 <meta property="twitter:image" content={imageURL} />
 
+<!-- Google Analytics GA4 (instalado via agente V4) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RJ7Q1L3ME3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-RJ7Q1L3ME3');
+</script>
+
 <!-- Google AdSense -->
 <meta name="google-adsense-account" content="ca-pub-8991943608456423" />
 <!-- Google AdSense -->
