@@ -2,8 +2,8 @@
 title: "North America Transit Expansion: 149 Miles of New Lines Set for 2026"
 description: "A record 149 miles of new fixed-guideway transit lines are scheduled to open across the US, Canada, and Mexico in 2026, according to The Transport Politic."
 pubDate: "2026-07-22"
-heroImage: "/hero/north-america-transit-expansion-149-miles-of-new-lines-set-f.jpg"
-hero_credit: "Wikimedia Commons (CC BY 2.5) — Brocken Inaglory"
+heroImage: "/hero/20260722-north-america-transit-expansion-149-miles-of-new-lines-set-f.jpg"
+hero_credit: "Wikimedia Commons (CC BY-SA 4.0) — Wilfredor"
 source_name: "Transit Expansion in North America: A Look Ahead to 2026, and a 2025 Roundup – The Transport Politic"
 source_url: "https://www.thetransportpolitic.com/2026/01/01/transit-expansion-in-north-america-a-look-ahead-to-2026-and-a-2025-roundup/"
 tags: ["transit expansion", "north america", "bus rapid transit", "light rail", "metro", "2026"]
