@@ -2,6 +2,8 @@
 title: "Turkey awards contract for Gebze metro branch line"
 description: "AYGM selects Metgün İnşaat to build a 5.7 km metro branch connecting Gebze to Çayırova and an industrial zone."
 pubDate: "2026-07-22"
+heroImage: "/hero/20260722-turkey-awards-contract-for-gebze-metro-branch-line.jpg"
+hero_credit: "Wikimedia Commons (CC BY-SA 3.0) — Kabelleger / David Gubler (http://www.bahnbilder.ch)"
 source_name: "Contract signed to build Gebze metro branch"
 source_url: "https://www.railwaygazette.com/metro-metro-categories/2026/07/21/contract-signed-to-build-gebze-metro-branch/"
 tags: ["turkey", "gebze", "metro", "aygm", "metgün inşaat", "marmaray"]
