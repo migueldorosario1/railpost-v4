@@ -2,6 +2,7 @@
 title: "How digital technology is transforming US freight locomotives"
 description: "Modern US freight locomotives use sensors, AI, and automation to improve safety, efficiency, and emissions, per the AAR."
 pubDate: "2026-07-21"
+heroImage: "/hero/how-digital-technology-is-transforming-us-freight-locomotive.jpg"
 hero_credit: "Wikimedia Commons (CC BY-SA 4.0) — Gogerr"
 source_name: "Freight Train Locomotive Technology - Association of American Railroads"
 source_url: "https://www.aar.org/issue/freight-train-locomotive-technology/"

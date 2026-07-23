@@ -2,6 +2,7 @@
 title: "Romanian suburban rail projects gain momentum outside Bucharest"
 description: "Funding agreements advance suburban rail in Cluj-Napoca and Oradea, while Bucharest's plans stall."
 pubDate: "2026-07-21"
+heroImage: "/hero/romanian-suburban-rail-projects-gain-momentum-outside-buchar.jpg"
 hero_credit: "Wikimedia Commons (CC BY 2.5) — Brocken Inaglory"
 source_name: "Romania: Suburban rail projects surge outside the capital"
 source_url: "https://www.railwaygazette.com/suburban-commuter-rail/2026/07/18/romania-slow-progress-on-bucuresti-package-in-contrast-with-tren-metropolitan-network-boom/"
