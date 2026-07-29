@@ -3,7 +3,7 @@ title: "Castex removes SNCF Voyageurs head to preserve state railway unity"
 description: "Christophe Fanichet dismissed as SNCF Voyageurs president; role split amid strategic differences over competition and group cohesion."
 pubDate: "2026-07-28"
 heroImage: "/hero/castex-removes-sncf-voyageurs-head-to-preserve-state-railway.jpg"
-hero_credit: "Photo by ArminEP on Pixabay"
+hero_credit: "Photo by NoName_13 on Pixabay"
 source_name: "Castex ousts head of SNCF Voyageurs to defend ‘unity’ of the state railway"
 source_url: "https://www.railwaygazette.com/france/2026/07/23/castex-ousts-head-of-sncf-voyageurs-to-defend-unity-of-the-state-railway/"
 tags: ["sncf", "france", "leadership", "competition", "restructuring"]

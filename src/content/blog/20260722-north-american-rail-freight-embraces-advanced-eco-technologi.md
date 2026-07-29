@@ -3,7 +3,7 @@ title: "North American Rail Freight Embraces Advanced Eco-Technologies"
 description: "Railroads in North America are adopting hybrid locomotives, alternative fuels, and energy management systems to cut emissions and improve efficiency."
 pubDate: "2026-07-22"
 heroImage: "/hero/north-american-rail-freight-embraces-advanced-eco-technologi.jpg"
-hero_credit: "Imagem editorial gerada por IA (Rail Post)"
+hero_credit: "Photo by JerOme82 on Pixabay"
 source_name: "Innovations in Sustainability by Railroads in North America (Part 3 of 4)"
 source_url: "https://tratics.com/blog/innovations-in-environmental-sustainability-for-rail-freight-in-north-america"
 tags: ["sustainability", "north america", "hybrid locomotives", "alternative fuels", "energy management"]

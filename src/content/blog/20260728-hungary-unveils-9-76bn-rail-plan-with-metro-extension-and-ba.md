@@ -3,7 +3,7 @@ title: "Hungary unveils €9.76bn rail plan with metro extension and battery tra
 description: "Hungary's Gábor Baross Railway Development Plan includes metro extensions, battery trains, and tram-train projects by 2035."
 pubDate: "2026-07-28"
 heroImage: "/hero/hungary-unveils-9-76bn-rail-plan-with-metro-extension-and-ba.jpg"
-hero_credit: "Photo by Tama66 on Pixabay"
+hero_credit: "Photo by asd14235714 on Pixabay"
 source_name: "Tram-trains, battery traction and metro extensions in €10bn Hungarian rail investment plan"
 source_url: "https://www.railwaygazette.com/news/2026/07/23/tram-trains-battery-traction-and-metro-extension-in-e10bn-hungarian-rail-investment-plan/"
 tags: ["hungary", "rail investment", "budapest", "metro extension", "battery trains", "tram-train"]

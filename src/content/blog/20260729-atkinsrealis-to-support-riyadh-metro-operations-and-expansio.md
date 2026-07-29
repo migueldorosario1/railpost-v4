@@ -3,7 +3,7 @@ title: "AtkinsRéalis to support Riyadh Metro operations and expansion"
 description: "Canadian engineering firm AtkinsRéalis signs contracts to provide engineering services and supervision for Riyadh Metro, the world's longest driverless net"
 pubDate: "2026-07-29"
 heroImage: "/hero/atkinsrealis-to-support-riyadh-metro-operations-and-expansio.jpg"
-hero_credit: "Photo by Tama66 on Pixabay"
+hero_credit: "Photo by JESHOOTS-com on Pixabay"
 source_name: "AtkinsRéalis to provide Riyadh Metro engineering services"
 source_url: "https://www.railwaygazette.com/saudi-arabia/2026/07/23/atkinsrealis-to-provide-riyadh-metro-engineering-services/"
 tags: ["riyadh metro", "atkinsrealis", "saudi arabia", "driverless metro", "engineering services", "metro expansion"]
