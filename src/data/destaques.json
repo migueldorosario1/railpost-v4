@@ -1,37 +1,42 @@
 [
-  {
-    "title": "Brasilia's LRT turns to APS technology to protect its modernist landscape",
-    "description": "Ground-level power supply avoids overhead wires, respects the protected Plano Piloto and repositions W3 Avenue as a mobility corridor.",
-    "url": "/blog/brasilia-lrt-aps-technology/",
-    "hero": "/hero/brasilia-lrt-aps-technology.jpg",
-    "kicker": "Lrt"
-  },
-  {
-    "title": "Brazil's Line 17 and National Rail Plan signal a new technology cycle",
-    "description": "From automated monorail operations in Sao Paulo to new freight corridors, Brazil is rebuilding rail as strategic infrastructure.",
-    "url": "/blog/brazil-line-17-national-rail-plan/",
-    "hero": "/hero/brazil-line-17-national-rail-plan.jpg",
-    "kicker": "High Speed Rail"
-  },
-  {
-    "title": "Brazil pours R$100 billion into five mega-corridors to quadruple rail freight share by 2035",
-    "description": "Brazil's R$100 billion National Railways Plan aims to quadruple the freight rail share from 17% to 40% by 2035, stitching together five mega-corridors that cros",
-    "url": "/blog/20260605-brazil-pours-r100-billion-into-five-mega-corridors-to-quadruple-rail-freight-sha/",
-    "hero": "/hero/brazil-pours-r100-billion-into-five-mega-corridors-to-quadruple-rail-freight-sha.jpg",
-    "kicker": "Logistics"
-  },
-  {
-    "title": "Korail to Replace KTX-I Fleet with 49 EMU-320 High-Speed Trainsets",
-    "description": "South Korea's Korail plans to order 49 EMU-320 trainsets to replace aging KTX-I fleet, with first units entering service from 2032.",
-    "url": "/blog/20260721-korail-to-replace-ktx-i-fleet-with-49-emu-320-high-speed-tra/",
-    "hero": "/hero/korail-to-replace-ktx-i-fleet-with-49-emu-320-high-speed-tra.jpg",
-    "kicker": "Korail"
-  },
-  {
-    "title": "European Sleeper targets Milan launch amid regulatory hurdles",
-    "description": "Open-access night train operator European Sleeper prepares Milan-Brussels service while tackling French and German barriers.",
-    "url": "/blog/20260721-european-sleeper-targets-milan-launch-amid-regulatory-hurdle/",
-    "hero": "/hero/european-sleeper-targets-milan-launch-amid-regulatory-hurdle.jpg",
-    "kicker": "European Sleeper"
-  }
+    {
+        "kicker": "",
+        "author": "Rail Post Desk",
+        "title": "InnoTrans 2026 to Be Most International Edition Yet",
+        "url": "/blog/20260726-innotrans-2026-to-be-most-international-edition-yet/",
+        "hero": "/hero/innotrans-2026-to-be-most-international-edition-yet.jpg",
+        "description": "InnoTrans 2026 in Berlin will host exhibitors from 60 nations and delegations from 18 countries, setting a new record for international participation."
+    },
+    {
+        "kicker": "Infraestrutura",
+        "author": "The Rail Post Desk",
+        "title": "Chinese engineering silently advances over Brazil's railway network",
+        "url": "/blog/20260629-chinese-engineering-silently-advances-over-brazils-railway-network/",
+        "hero": "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/trilhos/infraestrutura-infrastructure/chinese-engineering-silently-advances-over-brazils-railway-network.jpg",
+        "description": "Chinese engineering advances silently over the Brazilian railway network"
+    },
+    {
+        "kicker": "Vlt",
+        "author": "The Rail Post Desk",
+        "title": "Ultra-light trains and trams: the UK's bet to make light rail cheaper and bring it to medium-sized cities",
+        "url": "/blog/20260701-ultra-light-trains-and-trams-the-uks-bet-to-make-light-rail-cheaper-and-bring-it/",
+        "hero": "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/trilhos/vlt-light-rail/ultra-light-trains-and-trams-the-uks-bet-to-make-light-rail-cheaper-and-bring-it.jpg",
+        "description": "Ultra-light trains and trams: the UK's bet to make light rail cheaper and bring it to medium-sized cities"
+    },
+    {
+        "kicker": "Infraestrutura",
+        "author": "The Rail Post Desk",
+        "title": "High Speed: The Architecture of Modern Development",
+        "url": "/blog/20260702-high-speed-the-architecture-of-modern-development/",
+        "hero": "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/trilhos/infraestrutura-infrastructure/high-speed-the-architecture-of-modern-development.jpg",
+        "description": "High Speed: The Architecture of Modern Development"
+    },
+    {
+        "kicker": "Vlt",
+        "author": "The Rail Post Desk",
+        "title": "VLTs explode in projects in Brazil and promise a silent revolution in urban mobility",
+        "url": "/blog/20260707-vlts-explode-in-projects-in-brazil-and-promise-a-silent-revolution-in-urban-mobi/",
+        "hero": "https://pub-f814950afdbb40b7801fc9ec9dc9e04c.r2.dev/trilhos/vlt-light-rail/vlts-explode-in-projects-in-brazil-and-promise-a-silent-revolution-in-urban-mobi.jpg",
+        "description": "VLTs explode in projects in Brazil and promise a silent revolution in urban mobility"
+    }
 ]
