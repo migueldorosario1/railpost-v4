@@ -2,6 +2,6 @@
   "_doc": "Painel de Destaques (CCTV V6). enabled: liga/desliga a seção; regra: audiencia|recentes; max_age_hours: idade máx do destaque (0=sem limite); top: nº de cards.",
   "enabled": false,
   "regra": "audiencia",
-  "max_age_hours": 24,
+  "max_age_hours": 48,
   "top": 5
 }
