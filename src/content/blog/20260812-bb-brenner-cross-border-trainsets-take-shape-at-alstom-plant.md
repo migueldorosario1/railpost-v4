@@ -4,7 +4,7 @@ description: "ÖBB and Alto Adige inspect new Coradia Stream EMUs for Brenner Pa
 pubDate: "2026-08-12"
 heroImage: "/hero/bb-brenner-cross-border-trainsets-take-shape-at-alstom-plant.jpg"
 hero_credit: "Photo by hpgruesen on Pixabay"
-hero_legenda: "regional train, multiple unit, railroad, rail transport, diesel railcar, diesel multiple unit, regional transport, clock traffic, br620, br 620, the alstom coradia lint 81, the eifel railway, ehrang"
+hero_legenda: "hydrogen trainset, fuel cell, electric drive, regional transport, regional train, railroad, rail transport, private railway, evb, alstom coradia ilint, lint 54, hydrogen, exit, cuxhaven, multiple unit, railcar, hydrogen"
 source_name: "ÖBB’s Brenner cross-border regional trainsets take shape"
 source_url: "https://www.railwaygazette.com/austria/2026/08/05/obbs-brenner-cross-border-regional-trainsets-take-shape/"
 tags: ["obb", "coradia-stream", "brenner-pass", "cross-border", "alstom", "euregio"]
