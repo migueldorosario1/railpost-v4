@@ -6,7 +6,7 @@ import { defineConfig, fontProviders } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://railpost.news',
+	site: 'https://www.railpost.news',
 	integrations: [mdx(), sitemap()],
 	fonts: [
 		{
