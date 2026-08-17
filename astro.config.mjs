@@ -7,7 +7,15 @@ import { defineConfig, fontProviders } from 'astro/config';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://www.railpost.news',
-	integrations: [mdx(), sitemap()],
+		integrations: [
+		mdx(),
+		sitemap({
+			filter: (page) => {
+				const path = new URL(page).pathname;
+				return !/(^|\/)(tags|teste|preview)(\/|-|$)/.test(path);
+			},
+		}),
+	],
 	fonts: [
 		{
 			provider: fontProviders.local(),
