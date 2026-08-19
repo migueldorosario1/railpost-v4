@@ -10,7 +10,7 @@ source_url: "https://www.railwaygazette.com/passenger/2026/08/07/benex-wins-main
 tags: ["benex", "mainfranken", "regional rail", "beg", "rmv", "germany"]
 lang: "en"
 author: "Rail Post Desk"
-draft: false
+draft: true
 ---
 German regional rail operator Benex Regionalverkehr has been awarded both lots of the Mainfranken regional passenger operating contract, following the rejection of a legal challenge by incumbent DB Regio. The contract was confirmed on July 16 by Bayern railway authority BEG and Rhein-Main transport body RMV.
 
