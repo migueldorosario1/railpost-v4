@@ -9,6 +9,7 @@ lang: "en"
 author: "Rail Post Staff"
 draft: false
 heroImage: "/hero/3-dividend-paying-stocks-from-the-railroad-industry-you-may-count-on.jpg"
+hero_credit: "siamesepuppy / Wikimedia Commons (CC BY 2.0)"
 ---
 
 Railroad companies are the subject of a TradingView article identifying three dividend-paying stocks in the industry.
