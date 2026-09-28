@@ -9,6 +9,7 @@ lang: "en"
 author: "Rail Post Staff"
 draft: false
 heroImage: "/hero/urban-rail-industry-news-round-up.jpg"
+hero_credit: "HASSAN TANVIN AYON / Wikimedia Commons (CC BY-SA 4.0)"
 ---
 
 Railway Gazette International has published an urban rail industry news round-up.

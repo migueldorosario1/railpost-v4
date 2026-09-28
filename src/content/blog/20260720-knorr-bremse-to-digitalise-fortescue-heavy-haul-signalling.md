@@ -9,6 +9,7 @@ lang: "en"
 author: "Rail Post Desk"
 draft: false
 heroImage: "/hero/20260720-knorr-bremse-to-digitalise-fortescue-heavy-haul-signalling.jpg"
+hero_credit: "HASSAN TANVIN AYON / Wikimedia Commons (CC BY-SA 4.0)"
 ---
 Mining company Fortescue Metals Group has awarded Knorr-Bremse a contract to enhance signalling and further digitalise lineside systems on its mine-to-port heavy haul rail network in Western Australia, according to railwaygazette.com.
 
