@@ -8,6 +8,7 @@ tags: ["railpost"]
 lang: "en"
 author: "Rail Post Staff"
 draft: false
+heroImage: "/hero/avanti-west-coast-to-be-renationalised-in-march.jpg"
 ---
 
 The Guardian reports that Avanti West Coast will be renationalised in March.

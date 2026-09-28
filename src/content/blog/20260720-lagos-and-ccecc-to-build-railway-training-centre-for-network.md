@@ -8,6 +8,7 @@ tags: ["lagos", "lamata", "ccecc", "railway training", "nigeria", "capacity buil
 lang: "en"
 author: "Rail Post Desk"
 draft: false
+heroImage: "/hero/20260720-lagos-and-ccecc-to-build-railway-training-centre-for-network.jpg"
 ---
 The Lagos Metropolitan Area Transport Authority and China Civil Engineering Construction Corp have agreed to establish a Railway Training Centre, according to railwaygazette.com. The facility is designed to develop the skilled workforce needed to support a planned expansion of the state's rail network.
 

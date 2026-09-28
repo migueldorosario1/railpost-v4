@@ -8,6 +8,7 @@ tags: ["railpost"]
 lang: "en"
 author: "Rail Post Staff"
 draft: false
+heroImage: "/hero/urban-rail-industry-news-round-up.jpg"
 ---
 
 Railway Gazette International has published an urban rail industry news round-up.

@@ -8,6 +8,7 @@ tags: ["railpost"]
 lang: "en"
 author: "Rail Post Staff"
 draft: false
+heroImage: "/hero/nominations-for-the-10th-annual-women-in-rail-award-are-due-oct-1.jpg"
 ---
 
 Railway Age is accepting nominations for the 10th Annual Women in Rail Award, with a submission deadline of Oct. 1.
