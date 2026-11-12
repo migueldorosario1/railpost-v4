@@ -1,6 +1,7 @@
 ---
 import { Image } from 'astro:assets';
 import { getCollection } from 'astro:content';
+import RailMap from '../components/RailMap.astro';
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
@@ -35,6 +36,8 @@ const posts = _todosPosts.filter((post) => !_urlsDestaque.has(`/blog/${post.id}/
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
 		<style>
+.manifesto-banner{background:#133e43;color:#fff;padding:clamp(1.5rem,4vw,3rem);border-radius:14px;margin-bottom:2rem}.manifesto-banner span{font-size:.75rem;letter-spacing:.12em;font-weight:700;color:#cbe8da}.manifesto-banner h1{color:#fff;font-size:clamp(2.6rem,7vw,5rem);line-height:1.05;margin:.7rem 0}.manifesto-banner p{font-size:clamp(1.15rem,3vw,1.6rem);margin:.7rem 0 1.4rem}.manifesto-banner a{display:inline-block;background:#e1b764;color:#153c40;text-decoration:none;padding:.7rem 1rem;border-radius:6px;font-weight:bold}
+
 			main {
 				width: min(1280px, calc(100% - 2em));
 			}
@@ -203,6 +206,8 @@ const posts = _todosPosts.filter((post) => !_urlsDestaque.has(`/blog/${post.id}/
 	<body>
 		<Header />
 		<main>
+<section class="manifesto-banner" aria-labelledby="manifesto-title"><span>MANIFESTO · MIGUEL DO ROSÁRIO</span><h1 id="manifesto-title">Trains, Lula!</h1><p>For a national rail mobility project</p><a href="/manifesto/">Read the manifesto →</a></section>
+<RailMap />
 			{destaques.length > 0 && (
 			<section class="featured-voices">
 				<h2 class="fv-section-title fv-mini">Featured</h2>
